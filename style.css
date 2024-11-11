@@ -105,7 +105,7 @@ main {
       grid-area: body;
       padding: 1rem 2rem;
       & h2 {
-        font-weight: var(--fw-200);
+        font-weight: var(--fw-300);
         color: var(--neutral-dark-gray-blue);
       }
       & div {
