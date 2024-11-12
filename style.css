@@ -42,7 +42,7 @@ main {
   & .summary-wrap {
     display: grid;
     grid-template-columns: 1fr;
-    grid-template-rows: 50% 50%;
+    grid-template-rows: 40% 60%;
     grid-template-areas:
       "header"
       "body";
